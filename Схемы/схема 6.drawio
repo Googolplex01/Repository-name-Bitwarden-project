@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0">
+  <diagram name="Страница-1" id="3Xg6IIMJyby2Vlkc5DRM">
+    <mxGraphModel dx="944" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v1DODPfRgQW6bcwQM241-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="210" x="260" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="210" x="260" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="60" width="210" x="260" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="50" width="160" x="285" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="160" x="285" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-164" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="&lt;div&gt;&lt;span&gt;Открыть генератор&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="275" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-165" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="&lt;div&gt;&lt;span&gt; Выбрать длину &lt;/span&gt;&lt;span&gt;пароля  &lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="195" x="267.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-166" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Выбрать типы символов(буквы, цифры, спецсимволы)" vertex="1">
+          <mxGeometry height="60" width="210" x="260" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-167" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Нажать кнопку &quot;Сгенерировать&quot;" vertex="1">
+          <mxGeometry height="40" width="130" x="300" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-168" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Пароль создан" vertex="1">
+          <mxGeometry height="40" width="140" x="295" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-172" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=Courier New;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="359.58" y="470" as="sourcePoint" />
+            <mxPoint x="359.58" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-173" edge="1" parent="1" source="v1DODPfRgQW6bcwQM241-165" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="364.58" y="260" as="sourcePoint" />
+            <mxPoint x="364.58" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-174" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;fontFamily=Courier New;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="185" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-177" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0.452;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Courier New;" target="v1DODPfRgQW6bcwQM241-167" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="359.66" y="360" as="sourcePoint" />
+            <mxPoint x="359.66" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-179" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h2&gt;&lt;span class=&quot;&quot;&gt;Генерация пароля&lt;/span&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="270" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

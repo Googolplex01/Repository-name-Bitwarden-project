@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0">
+  <diagram name="Страница-1" id="3Xg6IIMJyby2Vlkc5DRM">
+    <mxGraphModel dx="1111" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v1DODPfRgQW6bcwQM241-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="210" x="260" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="210" x="260" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="60" width="210" x="260" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="50" width="160" x="170" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="50" width="160" x="410" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="160" x="170" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-164" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Открыть сайт" vertex="1">
+          <mxGeometry height="40" width="110" x="310" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-165" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Регистрация / ввод логина" vertex="1">
+          <mxGeometry height="40" width="180" x="275" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-166" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Расширение Bitwarden предлагает сохранить данные" vertex="1">
+          <mxGeometry height="60" width="210" x="260" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-167" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Сохранить в Vault" vertex="1">
+          <mxGeometry height="40" width="130" x="185" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-168" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Данные сохранены" vertex="1">
+          <mxGeometry height="40" width="140" x="175" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-169" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Courier New;align=center;" value="Продолжить без сохранения" vertex="1">
+          <mxGeometry height="40" width="190" x="390" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-170" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.654;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="v1DODPfRgQW6bcwQM241-167" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="280" as="sourcePoint" />
+            <mxPoint x="310" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-171" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.421;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="v1DODPfRgQW6bcwQM241-169" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-172" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="244.57999999999998" y="410" as="sourcePoint" />
+            <mxPoint x="244.57999999999998" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-173" edge="1" parent="1" source="v1DODPfRgQW6bcwQM241-165" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="364.58" y="180" as="sourcePoint" />
+            <mxPoint x="364.58" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-174" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="105" as="sourcePoint" />
+            <mxPoint x="360" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontFamily=Courier New;" value="Да" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="v1DODPfRgQW6bcwQM241-176" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontFamily=Courier New;" value="Нет" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zj2vMFUNv-ZC-IODZ4JJ-1" parent="1" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fontFamily=Verdana;align=center;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot; class=&quot;docData;DOCY;v5;1194;BQiAAgAAEYQCAAAGiAIAAAMRBAAABR8EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhQEAAACAAQAAARsAAAABBgAAAAAJBgAAAAAaBgMAAAAMAQAbBgAAAAACUgEAAAUkAAAAARMAAAAMAQAZBgoAAAByAHUALQBSAFUACAcAAAAAAgAAACAABWUAAAABAAAAAAhbAAAAAFYAAAAwBDIEQgQ+BDwEMARCBDgERwQ1BEEEOgQ+BDUEIABBBD4ERQRABDAEPQQ1BD0EOAQ1BCAAQwRHBDUEQgQ9BEsERQQgADQEMAQ9BD0ESwRFBCAAMgQgAAU0AAAAARMAAAAMAQAZBgoAAABlAG4ALQBVAFMACBcAAAAAEgAAAEIAaQB0AHcAYQByAGQAZQBuAAVBAAAAAQAAAAAINwAAAAAyAAAAIAA/BEAEOAQgAEAENQQzBDgEQQRCBEAEMARGBDgEOAQgAD0EMAQgAEEEMAQ5BEIENQQFHQAAAAETAAAADAEAGQYKAAAAZQBuAC0AVQBTAAgAAAAABQoAAAABAAAAAAgAAAAABQoAAAAIBQAAAA0AAAAAHwQAAABGZclrCgAAAAAAAAAAEQAAAACHAAAAAC0AAAABBgAAAAAJBhsAAAAnBBQBAAALAQEcAQAoBAAAAAAdAQApBMgAAAAbBgAAAAABSwAAACgBBykBByoBBysBBRMBAQgEFgAAABYEFgAAABkGCgAAAHIAdQAtAFIAVQAaBgoAAABhAHIALQBTAEEAGwYKAAAAZQBuAC0AVQBTAAIAAAAA&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Автоматическое сохранение учетных данных в &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Bitwarden&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; при регистрации на сайте&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="560" x="70" y="-40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
